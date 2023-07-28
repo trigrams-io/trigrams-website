@@ -1,12 +1,12 @@
 {
-  "name": "docsy-example-site",
+  "name": "trigrams-website",
   "version": "0.7.1",
   "description": "Example site that uses Docsy theme for technical documentation.",
   "repository": "github:google/docsy-example",
-  "homepage": "https://example.docsy.dev",
-  "author": "Docsy Authors",
+  "homepage": "https://trigrams.io",
+  "author": "Trigrams Authors",
   "license": "Apache-2.0",
-  "bugs": "https://github.com/google/docsy-example/issues",
+  "bugs": "https://github.com/trigrams-io/trigrams-website/issues",
   "spelling": "cSpell:ignore HTMLTEST precheck postbuild -",
   "scripts": {
     "_build": "npm run _hugo-dev",
