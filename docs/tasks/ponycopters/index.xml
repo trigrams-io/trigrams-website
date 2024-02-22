@@ -224,9 +224,9 @@ bar := &amp;#34;foo&amp;#34;;
 &lt;/table>
 &lt;hr>
 &lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg">&lt;/p>
 &lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg">&lt;/p>
 &lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
 &lt;h2 id="components">Components&lt;/h2>
 &lt;h3 id="alerts">Alerts&lt;/h3>
@@ -490,9 +490,9 @@ bar := &amp;#34;foo&amp;#34;;
 &lt;/table>
 &lt;hr>
 &lt;p>Small images should be shown at their actual size.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg">&lt;/p>
 &lt;p>Large images should always scale down and fit in the content container.&lt;/p>
-&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/1024px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg">&lt;/p>
 &lt;p>&lt;em>The photo above of the Spruce Picea abies shoot with foliage buds: Bjørn Erik Pedersen, CC-BY-SA.&lt;/em>&lt;/p>
 &lt;h2 id="components">Components&lt;/h2>
 &lt;h3 id="alerts">Alerts&lt;/h3>
